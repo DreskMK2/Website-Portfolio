@@ -2,13 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://corealys.com
-title: Corealys
-email: info@corealys.com
-author: Peter Corealys
+url: 
+title: Pablo Villalba Galiano
+email: 
+author: Pedro Gomez
 description: > # "Write an awesome description for your new site here. 
-  We offer several keyboard services.
-copyright: 'Copyright &copy; 2020 Corealys. All Rights Reserved.'
+  Designer.
+copyright: 'Copyright &copy; 2021 Pedro Gomez. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -26,7 +26,7 @@ permalink: pretty
 social:
   - title: LinkedIn
     fatitle: linkedin
-    url: https://www.linkedin.com/company/corealys
+    url: https://www.linkedin.com/in/pablovillalbagaliano/
   - title: Email
     fatitle: envelope
-    url: mailto:info@corealys.com
+    url: mailto:

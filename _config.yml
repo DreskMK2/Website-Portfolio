@@ -27,6 +27,6 @@ social:
   - title: LinkedIn
     fatitle: linkedin
     url: https://www.linkedin.com/in/pablovillalbagaliano/
-  - title: Email
-    fatitle: envelope
-    url: mailto:
+  #- title: Email
+    #fatitle: envelope
+    #url: mailto:

@@ -1,0 +1,20 @@
+---
+layout: default
+category: Services
+title: Commision
+description: |
+---
+
+If you want a custom mechanical keyboard but not all the hustle of finding the pieces and ordering them we can do it for you.
+If you are a company we offer custom build to match the theme of your company, an ideal way to celebrate milestones in the company or show apreciation to some employees.
+
+Includes :
+
+*  Finding PCB, switches, stabilizers, case and keycap set to your liking.
+*  Assembly services for the build.
+*  Discount of 20% on Switch services.
+*  Testing of the final build.
+*  Free carying case.
+
+
+For price, contact us.

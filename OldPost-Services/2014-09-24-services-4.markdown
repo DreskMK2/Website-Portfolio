@@ -1,0 +1,18 @@
+---
+layout: default
+category: Services
+title: Modding services
+description: |
+---
+
+If you have an off the shelf mechanical keyboard and want it modded to feel the best possible
+
+Includes :
+
+*  Keycap and board cleaning.
+*  Stabilizer lubbing and tunning(if possible depends on board).
+*  Switch swap if needed.
+*  Switch spray lubing.
+*  Changing the keycaps for a custom set.
+*  Testing of the keyboard.
+

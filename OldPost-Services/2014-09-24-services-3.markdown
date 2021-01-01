@@ -1,0 +1,14 @@
+---
+layout: default
+category: Services
+title: Maintenance services
+description: |
+---
+
+Includes :
+
+*  Keycap and board cleaning.
+*  Stabilizer relubing if needed.
+*  Switch swap if needed.
+*  Testing of the keyboard.
+

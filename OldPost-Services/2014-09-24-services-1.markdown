@@ -1,0 +1,22 @@
+---
+layout: default
+category: Services
+title: Assembly services
+description: |
+---
+
+Includes :
+
+*  Assembly / Soldering the switches
+*  Stabilizer tunning and modding
+*  QMK flashing of your layout
+*  Testing of the final build
+
+
+| Build size | Cost | 
+|------------|-------------|
+| 40% - 50% | 20€ | 
+| 60% - 65% | 30€ | 
+| 75% - 80% | 35€ | 
+| 90% or bigger| 40€ | 
+| Macro/Numpads | 14€ | 

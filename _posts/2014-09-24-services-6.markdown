@@ -1,0 +1,14 @@
+---
+layout: default
+category: Services
+title: Custom input devices
+description: |
+---
+
+We build custom input devices for specific programs and tasks making navigating, creating shorcuts and automating your workflow easy.
+
+The devices are custom built for an aplication or task in mind, we assest each individual case and create the ultimate layout so it is the most optimized for your task.
+
+The solutions work without any specific software, making it portable from one computer to another without the need of additional changes.
+
+If the programs that you use change or have different needs, we cover two years of support free of charge. 

@@ -1,0 +1,14 @@
+---
+layout: default
+category: Services
+title: Switch services
+description: |
+---
+
+| Service | Cost | 
+|------------|-------------|
+| Lubing | 0.35€/Switch | 
+| Filming | 0.10€/Switch | 
+| Spring swapping | 0.10€/Switch // Free with any other Switch service | 
+| Other mods | 0.10€/Switch // Free with any other Switch service | 
+

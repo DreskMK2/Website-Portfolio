@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://corealys.com
+title: Corealys
+email: info@corealys.com
+author: Peter Corealys
+description: > # "Write an awesome description for your new site here. 
+  We offer several keyboard services.
+copyright: 'Copyright &copy; 2020 Corealys. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: LinkedIn
+    fatitle: linkedin
+    url: https://www.linkedin.com/company/corealys
+  - title: Email
+    fatitle: envelope
+    url: mailto:info@corealys.com

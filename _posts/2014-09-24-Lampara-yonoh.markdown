@@ -1,9 +1,9 @@
 ---
 layout: default
-img: cad.jpg
+img: Yonoh1.jpg
 category: Services
-title: Lampara magica
+title: Yonoh lamp
 description: |
 ---
 
-Lampara de diseño nordico minimalista, diseñada en lego montada por elfos magicos en el polo sur.
+Yonoh lamp description

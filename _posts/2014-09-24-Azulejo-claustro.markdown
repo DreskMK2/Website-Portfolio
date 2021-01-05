@@ -1,9 +1,9 @@
 ---
 layout: default
-img: cad.jpg
+img: azulejos1.jpg
 category: Services
-title: Lampara magica
+title: Castro tile
 description: |
 ---
 
-Lampara de diseño nordico minimalista, diseñada en lego montada por elfos magicos en el polo sur.
+Tile designed to have a minimalistic aestetic while providing a break in the simple.

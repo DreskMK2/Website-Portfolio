@@ -1,9 +1,9 @@
 ---
 layout: default
-img: cad.jpg
+img: harmony1.jpg
 category: Services
-title: Lampara magica
+title: Harmony riviera
 description: |
 ---
 
-Lampara de diseño nordico minimalista, diseñada en lego montada por elfos magicos en el polo sur.
+Harmony description

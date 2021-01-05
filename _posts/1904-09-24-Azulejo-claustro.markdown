@@ -1,6 +1,6 @@
 ---
 layout: default
-img: azulejos1.jpg
+img: azulesjos1.jpg
 category: Services
 title: Castro tile
 description: |

@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Yonoh1.jpg
+img: wave.jpg
 category: Services
 title: Ceramic wave
 description: |

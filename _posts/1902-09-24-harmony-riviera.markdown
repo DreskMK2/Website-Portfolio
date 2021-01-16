@@ -2,7 +2,7 @@
 layout: default
 img: harmony1.jpg
 category: Services
-title: Harmony riviera
+title: Riviera (Harmony inspire)
 description: |
 ---
 

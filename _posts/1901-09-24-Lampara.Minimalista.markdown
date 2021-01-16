@@ -2,7 +2,7 @@
 layout: default
 img: azulesjos2.jpg
 category: Services
-title: Lampara magica
+title: Buit (LZF Lamps)
 description: |
 ---
 

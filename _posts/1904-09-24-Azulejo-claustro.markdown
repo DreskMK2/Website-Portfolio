@@ -2,8 +2,8 @@
 layout: default
 img: azulesjos1.jpg
 category: Services
-title: Castro tile
+title: Tesalia tile (Harmony inspire)
 description: |
 ---
 
-Tile designed to have a minimalistic aestetic while providing a break in the simple.
+Tesalia is a minimalistic tile collection which is inspired by the labyrinthine corridors of a monastery. You can imagine yourself walking though the scales and columns when you see one Tesalia’s wall.

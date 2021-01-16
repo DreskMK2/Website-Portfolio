@@ -2,7 +2,7 @@
 layout: default
 img: about.jpg
 category: Services
-title: About
+title: 
 description: |
 ---
 

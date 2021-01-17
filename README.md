@@ -1,4 +1,7 @@
 Website created by Pedro Gomez using this [Theme](https://swcool.github.io/landing-page-theme)
+
+Pictures and renders in this website are owned by Pablo Villalba for any information regarding those, please contact https://www.linkedin.com/in/pablovillalbagaliano/.
+
 # Landing Page Jekyll theme
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
@@ -12,4 +15,4 @@ View this jekyll theme in action [here](https://swcool.github.io/landing-page-th
 For more Jekyll details, read [documentation](http://jekyllrb.com/).
 
 ## Version
-0.8
+1
